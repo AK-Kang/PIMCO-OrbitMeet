@@ -5,12 +5,8 @@
 ## Table of Contents
 
 - [Features](#features)
+- [Architecture](#architecture)
 - [Setup](#setup)
-- [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Future Improvements](#future-improvements)
-- [License](#license)
 
 ---
 
