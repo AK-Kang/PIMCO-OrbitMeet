@@ -25,15 +25,9 @@
 
 ---
 
-## Screenshots
+## Architecture
 
-### Client Search and Verification
 
-![Client Verification](path/to/screenshot1.png)
-
-### Report Generation and Feedback
-
-![Report and Feedback](path/to/screenshot2.png)
 
 ---
 
