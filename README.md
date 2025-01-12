@@ -27,7 +27,7 @@
 
 ## Architecture
 
-
+![Screenshot](Screenshot%202025-01-12%20at%203.25.52%20PM.png)
 
 ---
 
