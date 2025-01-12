@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Setup](#setup)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
@@ -38,7 +37,7 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Elaineeeeeeeeeeee/pimsphere.git
+git clone https://github.com/AK-Kang/PIMCO-OrbitMeet.git
 cd pimsphere
 ```
 
